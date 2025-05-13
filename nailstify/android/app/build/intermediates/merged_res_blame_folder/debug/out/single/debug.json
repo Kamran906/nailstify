@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_ad2.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_ad2.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_rneui_base_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_rneui_base_node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_s2.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_s2.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p2.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p2.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_prod1.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_prod1.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_rneui_base_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_rneui_base_node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_s1.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_s1.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_ad1.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_ad1.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_icons_security.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_icons_security.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p8.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p8.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_s3.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_s3.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_complete.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_complete.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.nailstify_app-main-39:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p1.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p1.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_logo1.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_logo1.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_bg.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_bg.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_rneui_base_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_rneui_base_node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p5.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p5.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p7.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p7.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_s4.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_s4.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_rneui_base_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_rneui_base_node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_user1.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_user1.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p4.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p4.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_icon.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_icon.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p6.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p6.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_profile.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_profile.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_p3.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_p3.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_src_assets_images_cash.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/src_assets_images_cash.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_rneui_base_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_rneui_base_node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/drawable-mdpi_node_modules_rneui_base_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.nailstify_app-main-39:/drawable-mdpi/node_modules_rneui_base_node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.nailstify_app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nailstify_app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,10 @@
+import Splash from './splash'
+import Welcome from './welcome'
+import SignUp from './signup'
+import SignIn from './signin'
+import MyShapes from './shapes'
+import MyColors from './mycolor'
+import LikeStyle from './likestyle'
+import ResetPassword from './resetpass'
+import ChangePassword from './changepassword'
+export {Splash,LikeStyle,ChangePassword,ResetPassword,MyColors,MyShapes,SignIn,Welcome,SignUp}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525226051464",
+    "project_id": "nailstifyapp",
+    "storage_bucket": "nailstifyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525226051464:android:759173e6a09ccc5e0e5c3d",
+        "android_client_info": {
+          "package_name": "com.nailstify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxpvclMSE8VYFsi_6Y18K4AXpRQjDfNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
